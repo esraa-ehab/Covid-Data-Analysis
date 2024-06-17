@@ -30,7 +30,7 @@ The data was cleaned and preprocessed to handle missing values, inconsistencies,
 
 ## Visulaization
 - The interactive dashboard provides a dynamic way to explore the COVID-19 data. Users can filter the data by date, region, and other parameters to visualize trends and patterns.
-- For the interactive visualization check out [the Dashboard](https://public.tableau.com/app/profile/israa.ehab/viz/CovidDashboard_17185078703330/Dashboard1)
+- For the interactive visualization check out [the Dashboard](https://public.tableau.com/app/profile/israa.ehab/viz/CovidDashboard_17185078703330/Dashboard1) <br>
 Here's a png version of the dashboard in case you want to take a quick look ![Dashboard 1](https://github.com/esraa-ehab/Covid-Data-Analysis/assets/58075520/3e8f4b3d-cfcf-4264-ab41-e061553eb0ae)
 
 
